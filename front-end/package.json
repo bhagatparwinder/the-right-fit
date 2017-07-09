@@ -1,0 +1,9 @@
+{
+  "name": "the-right-fit-fe",
+  "version": "0.0.1",
+  "description": "Front end source code for The Right Fit webapp",
+  "main": "index.js",
+  "repository": "https://github.com/bhagatparwinder/the-right-fit",
+  "author": "Parwinder Bhagat",
+  "license": "MIT"
+}
