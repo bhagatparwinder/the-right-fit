@@ -1,1 +1,5 @@
 /front-end/node_modules
+/api/target
+/api/.settings
+/api/.project
+/api/.classpath
